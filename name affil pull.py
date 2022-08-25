@@ -101,7 +101,6 @@ for i, sent in enumerate(sentlist):
         continue
         print('yeehaw')
 
-#output each tuple to a row in an excel
 #where the sentence is col 1, and acts as an ID
 #and each object in the list is in the same row, in the next column
 #so: (sent1, [joe bob, uwm]) sent1 is cell: col1xrow1; joe bob is cell col2xrow1; and uwm is col3xrow1
